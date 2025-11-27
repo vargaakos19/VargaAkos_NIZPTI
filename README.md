@@ -5,9 +5,9 @@ Oktató: Adamcsik János
 Feladat: Tkinter alapú grafikus költségnyilvántartó.
 
 Modulok és függvények:
-- cl.py : class VA_Kiadas
+- cl.py : class Costs
 - module.py : new_cost(), get_list_strings(), delete_index(), all_amount(), save()
-- main.py : grafikus felület és eseménykezelés (gombok, listbox duplakatt)
+- main.py : grafikus felület és eseménykezelés (gombok, listbox duplakattintás)
   
 Használt bemutatott modulok: datetime (now, date, strftime)
 
